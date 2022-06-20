@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  📌 Living in <b>Criciúma</b>, <b>Santa Catarina</b>, <b>Brazil</b> &nbsp; 💼 Junior Developer at <b>PELAINTERNET Tecnologia</b>
+  📌 Living in <b>Criciúma</b>, <b>Santa Catarina</b>, <b>Brazil</b> &nbsp; 💼 Fullstack Developer at <b>Vista Software</b>
 </p>
 <p align="center">
   📚 Graduate in <b>Information and communication technology</b> &nbsp;
